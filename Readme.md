@@ -174,7 +174,7 @@ jupyter notebook notebooks/main.ipynb
 ## 🛠️ Technical Stack
 
 - **Data**: ccxt (Binance API)
-- **ML Framework**: PyTorch 2.0
+- **ML Framework**: PyTorch
 - **Features**: pandas, numpy
 - **Visualization**: matplotlib, seaborn
 - **Containerization**: Docker
@@ -183,7 +183,6 @@ jupyter notebook notebooks/main.ipynb
 
 1. Dixon, M. (2020). *Sequence Classification of the Limit Order Book*
 2. Lin, T. et al. (2017). *Focal Loss for Dense Object Detection*
-3. [Your other references]
 
 ## 🎯 Future Work
 
@@ -195,7 +194,7 @@ jupyter notebook notebooks/main.ipynb
 ## 📝 Citation
 
 @software{dixon_dnn_meanrev,
-author = {[Your Name]},
+author = {[Nabichan]},
 title = {Multi-Asset DNN for Cryptocurrency Mean-Reversion},
 year = {2025},
 url = {https://github.com/nabisan/dixon-dnn-meanrev}
@@ -207,7 +206,7 @@ MIT License
 
 ---
 
-**Status:** ✅ Complete - Production-ready model with validated results
+**Status:** ✅ Complete
 
 **Last Updated:** December 20, 2025
 
