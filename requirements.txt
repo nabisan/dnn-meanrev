@@ -1,0 +1,33 @@
+# Data handling
+numpy
+pandas
+scipy
+
+# Data sources
+yfinance
+ccxt
+
+# ML/DNN
+torch
+scikit-learn
+
+# Sentiment analysis
+newsapi-python
+vaderSentiment
+
+# Visualization
+matplotlib
+seaborn
+plotly
+
+# Backtesting  
+vectorbt
+
+# Jupyter
+jupyterlab
+ipywidgets
+
+# Utils
+python-dotenv
+tqdm
+

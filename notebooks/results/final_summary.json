@@ -1,0 +1,10 @@
+{
+  "model": "SimpleDNN (3 layers)",
+  "accuracy": "60.08%",
+  "strategy": "Contrarian Mean-Reversion",
+  "sharpe": 5.899067490138615,
+  "total_return": 0.08292716557832482,
+  "win_rate": 0.6595744680851063,
+  "trades": 47,
+  "key_insight": "DNN momentum features serve as reversal indicators in 5-min crypto"
+}

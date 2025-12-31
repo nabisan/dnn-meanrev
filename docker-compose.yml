@@ -1,0 +1,16 @@
+version: '3.8'
+
+services:
+  dixon-dnn:
+    build: .
+    container_name: dixon_dnn_dev
+    volumes:
+      - .:/app
+      - ./data:/app/data
+    ports:
+      - "8888:8888"
+    environment:
+      - JUPYTER_ENABLE_LAB=yes
+    stdin_open: true
+    tty: true
+
